@@ -13,7 +13,7 @@ app.get('/contato', (req, res) => {
 
 // Rota 3: Página Sobre
 app.get('/sobre', (req, res) => {
-  res.send('<h1>Sobre Nós: Somos uma empresa fictícia!</h1>');
+  res.send('<h1>Sobre Nós: Em desenvolvimento!</h1>');
 });
 
 // Servidor rodando na porta 3000
